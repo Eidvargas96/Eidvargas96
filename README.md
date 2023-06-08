@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hola, Mi Nombre es **Eider Vargas**
+______________________________________________________________________________
+```Apacionado de las nuevas tecnologias, quiero aprender todo lo posible para poder aplicar todo lo aprendido en mis proyectos personales y laborales. ```
+_____________________________________________________________________________
+### Comandos favoritos de Linux
 
-<!--
-**Eidvargas96/Eidvargas96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+|Comando|Descripcion|
+|---|---|
+|ls|Lista de archivos o carpetas|
+|clear|Limpia la pantalla
+|cd|Retrocede a carpeta anterior |
+|npm| Instalar paquetes|
 
-Here are some ideas to get you started:
+### comandos alias
+|Comando|Descripcion|
+|---|---|
+|cl|limpiar|
+|ls|lista|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+ 
